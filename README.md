@@ -1,1 +1,1 @@
-# crpress-test
+# crpress-workshop
